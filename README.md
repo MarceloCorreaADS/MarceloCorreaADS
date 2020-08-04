@@ -1,16 +1,12 @@
-### Hi there 👋
+# Marcelo Corrêa
 
-<!--
-**MarceloCorreaADS/MarceloCorreaADS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou formado em Análise e desenvolvimentode sistema pelo IFSP Campus Guarulhos, três anos de experiência em desenvolvimento de sistemas web em ASP.Net, VB.Net e SQL Server, além de alguns projetos com C#, inclusive meu TCC, um jogo de RPG tactics.
+Gosto de Back-end mas me viro bem no front-end :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mag_right: Procurando novas oportunidades
+ <br/> :computer: &nbsp; Estudando: ReactJS, Node.js, React Native, Typescript, Angular 8 e C#
+ <br/> 💬  &nbsp; Sobre mim: Gosto de filmes, séries e muito mangá, além de games como Call Of Duty Modern Warfare e Valorant, e muitos outros (Inclusive faço lives as vezes [![Facebook Badge](https://img.shields.io/badge/-SnowDGamer-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/SnowDGamer)](https://www.facebook.com/SnowDGamer))
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarceloCorrêa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-corrêa-72a98584/)](https://www.linkedin.com/in/marcelo-corrêa-72a98584) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-marcelocorreaads@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelocorreaads@gmail.com)](mailto:marcelocorreaads@gmail.com)
