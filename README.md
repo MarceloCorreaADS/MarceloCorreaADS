@@ -1,7 +1,7 @@
 # Marcelo Corrêa
 
 ## Olá pessoal 👋
-Sou formado em Análise e desenvolvimentode sistema pelo IFSP Campus Guarulhos, três anos de experiência em desenvolvimento de sistemas web em ASP.Net, VB.Net e SQL Server, além de alguns projetos com C#, inclusive meu TCC, um jogo de RPG tactics.
+Sou formado em Análise e desenvolvimentode sistema pelo IFSP Campus Guarulhos, três anos de experiência em desenvolvimento de sistemas web em ASP.Net, VB.Net e SQL Server, além de alguns projetos com C#, inclusive meu TCC, um jogo de RPG tactics desenvolvido em Unity.
 Gosto de Back-end mas me viro bem no front-end :computer:
 
 :mag_right: Procurando novas oportunidades
